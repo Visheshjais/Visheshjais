@@ -1,48 +1,105 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India 🇮🇳</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Vishesh+Jaiswal;MERN+Stack+Developer+%F0%9F%9A%80;React+%7C+Node.js+%7C+MongoDB;Open+to+Opportunities+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C9A7&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Open+to+Opportunities!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=Visheshjais&label=Profile%20views&color=00c9a7&style=flat" alt="Visheshjais" />
+  <a href="https://github.com/Visheshjais?tab=followers">
+    <img src="https://img.shields.io/github/followers/Visheshjais?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🔭 Currently building full-stack web apps with **MERN Stack**
-- 🌱 Learning **Next.js**, **TypeScript**, and **DevOps**
-- 💼 Open to **Fresher MERN Developer** roles
-- 📫 Reach me at: **your@email.com**
+### 👨‍💻 About Me
+
+- 🔭 I'm currently building full-stack web apps using the **MERN Stack**
+- 🌱 Exploring **Next.js**, **TypeScript**, and **Cloud Deployment**
+- 💼 Actively looking for **Fresher MERN Stack Developer** roles
+- 🛡️ Experienced with **JWT Authentication** & **REST APIs**
+- 🎨 Love building clean, responsive UIs with **Tailwind CSS**
+- 📫 Reach me at: **jaiswalvishesh1214@gmail.com**
+- 🌐 Portfolio: [visheshjaiswalportfolio.vercel.app](https://visheshjaiswalportfolio.vercel.app/)
 
 ---
 
 ### 🛠️ Tech Stack
 
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Visheshjais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Vishesh's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visheshjais&theme=tokyonight&hide_border=true" width="48%" alt="Vishesh's Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshjais&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Visheshjais&theme=tokyonight&no-frame=true&column=6" alt="Vishesh's Trophies"/>
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Visheshjais&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishesh-j-a085b3236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Visheshjais" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://visheshjaiswalportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:jaiswalvishesh1214@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/Visheshjais">Visheshjais</a> — Let's build something amazing together!</p>
