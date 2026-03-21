@@ -68,13 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshjais&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
 </p>
 
----
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Visheshjais&theme=tokyonight&no-frame=true&column=6" alt="Vishesh's Trophies"/>
-</p>
 
 ---
 
