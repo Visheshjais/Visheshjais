@@ -65,15 +65,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Visheshjais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Vishesh's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Visheshjais&theme=tokyonight&hide_border=true" width="48%" alt="Vishesh's Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Visheshjais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" alt="Vishesh's GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Visheshjais&theme=tokyonight&hide_border=true" width="48%" alt="Vishesh's Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshjais&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visheshjais&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" alt="Top Languages"/>
 </p>
+```
 
-
+---
 
 ---
 
