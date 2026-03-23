@@ -66,7 +66,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Visheshjais&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" width="48%" alt="Vishesh's GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=Visheshjais&theme=tokyonight&hide_border=true" width="48%" alt="Vishesh's Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Visheshjais&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" width="48%" alt="Vishesh's Streak Stats"/>
 </p>
 
 <p align="center">
