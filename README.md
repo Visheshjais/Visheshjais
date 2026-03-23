@@ -17,7 +17,7 @@
 - 🌱 Exploring **Next.js**, **TypeScript**, and **Cloud Deployment**
 - 💼 Actively looking for **Fresher MERN Stack Developer** roles
 - 🛡️ Experienced with **JWT Authentication** & **REST APIs**
-- 🎨 Love building clean, responsive UIs with **Tailwind CSS**
+- 🎨 Love building clean, responsive UIs with **CSS**
 - 📫 Reach me at: **jaiswalvishesh1214@gmail.com**
 - 🌐 Portfolio: [visheshjaiswalportfolio.vercel.app](https://visheshjaiswalportfolio.vercel.app/)
 
